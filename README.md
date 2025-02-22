@@ -5,7 +5,6 @@
 I'm a .NET Developer with a passion for video games and art. Always looking for ways in which I can apply and improve my skills.
 
 🌱 Working on a video game in Godot as a part of my Engineer's Thesis<br/>
-📖 Learning C#<br/>
 👩🏻‍🎓 Studying Programming at the University of Information Technology and Management in Rzeszów<br/>
 🎮 Developing games in my free time in the Godot Game Engine 💙<br/>
 🎨 Favourite theme: Gruvbox Material<br/>
