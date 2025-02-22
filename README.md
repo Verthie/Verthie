@@ -2,7 +2,7 @@
 
 **`Software Developer/Game Developer/Sometimes Digital Painter`**
 
-I'm a .NET Developer with a passion for video games and art. Always looking for ways in which I can apply and improve my skills, no matter the medium.
+I'm a .NET Developer with a passion for video games and art. Always looking for ways in which I can apply and improve my skills.
 
 🌱 Working on a video game in Godot as a part of my Engineer's Thesis<br/>
 📖 Learning C#<br/>
