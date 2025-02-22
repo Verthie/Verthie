@@ -28,3 +28,4 @@ I'm a .NET Developer with a passion for video games and art. Always looking for 
 
 ## 📈 Stats
 ![Verthie's GitHub stats](https://github-readme-stats.vercel.app/api?username=verthie&theme=catppuccin_mocha&hide=stars&show_icons=true&include_all_commits=true&count_private=true)
+![Verthie's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=verthie&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
