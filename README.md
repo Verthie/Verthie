@@ -7,7 +7,7 @@
 
 **`Software Developer/Game Developer`**
 
-I'm a .NET Developer with a passion for video games and art.<br/>
+I'm a Software Developer with a passion for video games and art.<br/>
 
 🎮 Developing games in my free time in the Godot Engine<br/>
 </div>
