@@ -19,7 +19,7 @@ I'm a Software Developer with a passion for video games and art.<br/>
   <p>
     <img height="40" src="https://skillicons.dev/icons?i=cs,cpp,js,py,java,html,css"/>
         
-    <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,godot,obsidian"/>
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,obsidian,godot"/>
   </p>
   
 </div>
