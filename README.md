@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/verth.png">
+  <img src="images/verth.png">
 </div>
 
 ## ⚡️ Quick **Facts**
@@ -17,4 +17,4 @@
 
 ## ️⚙️ Tools I use
 
-<img heaight="35" src="https://skillicons.dev/icons?i=cs,cpp,js,py,java,html,css&perline=7"/>
+<img height="40" src="https://skillicons.dev/icons?i=cs,cpp,js,py,java,html,css&perline=7"/>
