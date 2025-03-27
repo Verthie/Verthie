@@ -1,38 +1,20 @@
-<div align="center" id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1> (⌐■_■)ノ Hi, I'm Jakub! </h1>
-    </summary>
-  </ul>
-
-**`Software Developer/Game Developer`**
-
-I'm a Software Developer with a passion for video games and art.<br/>
-
-🎮 Developing games in my free time in the Godot Engine<br/>
-</div>
-
-<hr>
-
 <div align="center">
-
-  <p>
-    <img height="40" src="https://skillicons.dev/icons?i=cs,cpp,js,py,java,html,css"/>
-        
-    <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,obsidian,godot"/>
-  </p>
-  
+  <img src="img/verth.png">
 </div>
 
-<br>
+## ⚡️ Quick **Facts**
 
-<div align="center">
+<img height="310" src="img/berserk.gif" align=right>
 
-  <span href="test">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verthie&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  </span>
-  <span href="test">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=verthie&theme=catppuccin_mocha&hide=stars&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  </span>
+- 🌱 I enjoy working on:
+    - 📱 Software/Web Development
+    - 🎮 Game Development
+- 🧠 I enjoy self-education and learning new things
+- 🎓 I hold an engineering degree in computer science with specialization in programming
 
-</div>
+## 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCwwLDI1NiwyNTYiPgo8ZyBmaWxsPSIjMDBiMGZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDguNTMzMzMsOC41MzMzMykiPjxwYXRoIGQ9Ik0xMiwxNmgtOXY3Ljc1bDksMS4yMzh6TTEyLDVsLTksMS4yNXY3Ljc1aDl6TTE0LDQuNzV2OS4yNWgxM3YtMTF6TTE0LDE2djkuMjVsMTMsMS43NXYtMTF6Ij48L3BhdGg+PC9nPjwvZz4KPC9zdmc+&logoColor=0078D6"> <img src="https://img.shields.io/badge/Firefox-32302f.svg?&style=flat-square&logo=firefox"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=03b665"> <img src="https://img.shields.io/badge/VS Code-32302f?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMjFhMWU5IiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMzAuODY1IDMuNDQ4bC02LjU4My0zLjE2N2MtMC43NjYtMC4zNy0xLjY3Ny0wLjIxNC0yLjI3NiAwLjM4NWwtMTIuNjA5IDExLjUwNS01LjQ5NS00LjE2N2MtMC41MS0wLjM5MS0xLjIyOS0wLjM1OS0xLjcwMyAwLjA3M2wtMS43NiAxLjYwNGMtMC41ODMgMC41MjYtMC41ODMgMS40NDMtMC4wMDUgMS45NjlsNC43NjYgNC4zNDktNC43NjYgNC4zNDljLTAuNTc4IDAuNTI2LTAuNTc4IDEuNDQzIDAuMDA1IDEuOTY5bDEuNzYgMS42MDRjMC40NzkgMC40MzIgMS4xOTMgMC40NjQgMS43MDMgMC4wNzNsNS40OTUtNC4xNzIgMTIuNjE1IDExLjUxYzAuNTk0IDAuNTk5IDEuNTA1IDAuNzU1IDIuMjcxIDAuMzg1bDYuNTg5LTMuMTcyYzAuNjkzLTAuMzMzIDEuMTMtMS4wMzEgMS4xMy0xLjgwMnYtMjEuNDk1YzAtMC43NjYtMC40NDMtMS40NjktMS4xMzUtMS44MDJ6TTI0LjAwNSAyMy4yNjZsLTkuNTczLTcuMjY2IDkuNTczLTcuMjY2eiIvPgo8L3N2Zz4=&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=a8a8a8"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=9165ea">
+
+## ️⚙️ Tools I use
+
+<img heaight="35" src="https://skillicons.dev/icons?i=cs,cpp,js,py,java,html,css&perline=7"/>
