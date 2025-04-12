@@ -4,8 +4,6 @@
 
 ## ⚡️ Quick **Facts**
 
-<img height="310" src="img/berserk.gif" align=right>
-
 - 🌱 I enjoy working on:
     - 📱 Software/Web Development
     - 🎮 Game Development
