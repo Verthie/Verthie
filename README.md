@@ -15,4 +15,4 @@
 
 ## ️⚙️ Tools I use
 
-<img height="40" src="https://skillicons.dev/icons?i=cs,net,cpp,js,py,html,css&perline=8"/>
+<img height="40" src="https://skillicons.dev/icons?i=cs,net,cpp,py,js,html,css&perline=8"/>
