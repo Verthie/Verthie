@@ -4,7 +4,7 @@
 
 ## ⚡️ Quick **Facts**
 
-- 🌱 I enjoy working on:
+- 🌱 I specialize in:
     - 📱 Software/Web Development
     - 🎮 Game Development
 - 🧠 I enjoy self-education and learning new things
