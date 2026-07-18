@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="2316" height="672" alt="verth" src="https://github.com/user-attachments/assets/9b9a1ef1-73b5-4ffd-84dc-6585d3250d6f" />
+  <img src="images/verth.png">
 </div>
 
 ## ⚡️ Quick **Facts**
